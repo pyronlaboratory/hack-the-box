@@ -5,6 +5,7 @@
 Following packages are required on the attacking machine -
 
 Make sure your system is equipped with `git`, `ncat`, `nmap`, `python3`, `smbclient`, and `ufw`
+
 Secure Auth Corp's Impacket collection https://www.secureauth.com/labs/open-source-tools/impacket/
 
 ```
