@@ -10,7 +10,6 @@ Secure Auth Corp's Impacket collection https://www.secureauth.com/labs/open-sour
 
 ```
 ┌──(ronnie㉿LAPTOP-4OEHOBBN)-[~/Desktop/Archetype]
-
 └─$ sudo apt-get python3-pip python3-venv git smbclient ncat nmap, utf
 ```
 
